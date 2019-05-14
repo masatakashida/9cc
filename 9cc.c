@@ -8,7 +8,7 @@
 enum
 {
 	TK_NUM = 256,	// 整数トークン
-	TK_EOF,			// 入力の終わりを表すトークン
+	TK_EOF,	// 入力の終わりを表すトークン
 };
 
 typedef struct
